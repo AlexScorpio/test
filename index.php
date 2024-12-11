@@ -1,1 +1,1 @@
-print("Hi PHP");
+<? print("Hi PHP"); ?>
